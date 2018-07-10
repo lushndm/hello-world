@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Super Ego Business</title>
+	<link rel="shortcut icon" href="favicon.ico">
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&amp;subset=cyrillic" rel="stylesheet">
+</head>
+<body>
+
+<header>
+	<div class="head">
+		<img src="img/logo.svg" alt="SuperEgo" class="logo" width="150">
+		<div class="se"><a href="https://super-ego.info/" target="_blank">super-ego.info</a></div>
+		<div class="download">
+			Скачать
+			<a href="https://play.google.com/store/apps/details?id=info.superego.backoffice" target="_blank"><img src="img/apple-logo.svg" width="24"></a>
+			<a href="https://itunes.apple.com/us/app/super-ego-business/id1382268792?mt=8" target="_blank"><img src="img/android-logo.svg" width="24"></a>
+		</div>
+		<ul class="top-menu">
+			<li><a href="#how1">Как начать</a></li>
+			<li><a href="#how2">Бонус</a></li>
+			<li><a href="#how3">Правила</a></li>
+			<li><a href="#how4">Миссия</a></li>
+			<li><a href="#how5">Вопросы</a></li>
+		</ul>
+	</div>
+	
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6">
+				<h1>Первая пошаговая<br>инструкция для тех, кто хочет иметь ежемесячный доход один миллион рублей и более.</h1>
+				<a href="#how1" class="btn1">Начать</a>
+			</div>
+			<div class="col-sm-6">
+				<img src="img/millionere.svg">
+			</div>
+		</div>
+	</div>
+</header>
+
+<div id="how1"></div>
+<div class="container">
+	<section class="block1">
+		<div class="what">Что нужно делать?</div>
+		<h2>Что нужно делать?</h2>
+		<div class="row">
+			<div class="col-sm-4">
+				<div class="number">1</div>
+				<div class="zag">Master Kit</div><br>
+				Для участия в игре вам нужно иметь Master Kit, узнать подробнее о продукте можно по <a href="https://super-ego.info/master-kit" target="_blank">ссылке</a>.<br>
+				<img src="img/arrow.png" class="arrow">
+			</div>
+			<div class="col-sm-4">
+				<div class="number">2</div>
+				<div class="zag zag2">Приложение<br>Super Ego Business </div><br>
+				Скачайте бесплатно приложение-игру Super Ego Business. Войдите со своим логином и паролем от Master Kit.
+			</div>
+			<div class="col-sm-4">
+				<div class="number zag3">3</div>
+				<div class="zag zag2">Следуй инструкциям в приложении</div>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div class="container">
+	<section class="block2">
+		<div class="row">
+			<div class="col-sm-5 inst">
+				<img src="img/play-img.svg" width="132"><br>
+				Посмотрите видео с презентацией игры
+			</div>
+			<div class="col-sm-7">
+				<div class="video_block">
+                    <a href="javascript:;" data-toggle="modal" data-ix="load-popup" data-target="#video" class="div_play"></a>
+                </div>
+			</div>
+		</div>
+	</section>
+</div>
+
+<div id="how2"></div>
+<section class="block3">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6">
+				<img src="img/startup-icon.svg" width="96"><br>
+				<h3>Бонус за 365 дней</h3>
+				Если вы пройдете игру до конца менее, чем за 365 дней, то помимо ежемесячного дохода от 1 миллиона рублей в месяц, вы получите единоразовый гарантированный бонус 5 млн рублей.
+			</div>
+		</div>
+		<div class="what2">5 000 000 RUB</div>
+	</div>
+</section>	
+
+<div id="how3"></div>
+<section class="block4-0"></section>
+<section class="block4">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6 col-xs-8">
+				<img src="img/card-img.svg" class="card">
+			</div>
+			<div class="col-sm-6 col-xs-12">
+				<h4>Два важных<br>правила игры</h4>
+				Игра состоит из 12 уровней - карт. Вам нужно пройти все уровни - “закрыть все карты”.
+			</div>
+		</div>
+		<img src="img/arrow-with-scribble.png" class="arrow">
+		<div class="row">
+			<div class="col-sm-6">
+				<div>
+					<div class="number2">1</div>
+					<div class="zag">На каждой карте мне нужно включить в игру 1 человека</div><br>
+					Если ваш новый партнер купил Master Kit, а вы в этот момент еще не были в игре - он не будет вам засчитан. Поэтому сразу же входите в игру. Чтобы войти в игру, просто скачайте приложение. 
+				</div>
+				<div>
+					<div class="number2">2</div>
+					<div class="zag">Важно контролировать своих игроков, чтобы они соблюдали первое условие</div><br>
+					Подробности вы узнаете в приложении, в процессе игры.<br>На каждой карте 
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<img src="img/cheked-img.svg" class="cheked">
+			</div>
+		</div>
+	</div>
+</section>
+<section class="block4-1"></section>
+
+<div id="how4"></div>
+<section class="block5">
+	<div class="container">
+		<h3>Миссия компании Super Ego</h3>
+		Доход от 1 миллиона рублей в месяц - это нормально.<br>Возможность стать миллионером открыта для всех.
+		<div class="mln">#БЫТЬМИЛЛИОНЕРОМЭТОНОРМАЛЬНО</div>
+	</div>
+	<img src="img/copy.png" class="copy">
+</section>
+
+<div id="how5"></div>
+<section class="block6">
+	<div class="container">
+		<h3>Ответы на популярные вопросы</h3>
+		<div class="answer">
+			<div class="raz">Нужно ли быть пользователем Master Kit, чтобы участвовать в игре и быть партнером?</div>
+			<div class="del">Если вы еще не приобрели Master Kit, чтобы участвовать в игре и стать партнером, вам нужно будет его купить. </div>
+		</div>
+		<div class="answer">
+			<div class="raz">Что такое приложение и игра? Это разные вещи?</div>
+			<div class="del">Нет, приложение и игра - это синонимы. Партнеры любят называть приложение игрой, потому что оно позволяет зарабатывать деньги играючи.</div>
+		</div>
+		<div class="answer">
+			<div class="raz">Как активироваться в приложении-игре? Как в него войти?</div>
+			<div class="del">Нужно скачать приложение на телефон и войти в него. Обратите внимание: просто скачать приложение недостаточно, обязательно нужно в него войти. Чтобы войти в приложение, используйте свой логин и пароль от партнерского кабинета.<br>Логин - это ваша почта, привязанная к Master Kit, до знака @. Например, если ваша почта - natasha77@mail.ru, то ваш логин будет natasha77. <br>В поле “пароль” - ваш пароль от Master Kit.</div>
+		</div>
+		<div class="answer">
+			<div class="raz">Как выглядит приложение? Как его скачать?</div>
+			<div class="del">Приложение-игра называется Super Ego Business. Вы можете бесплатно скачать его в Google Play или App Store.</div>
+		</div>
+		<div class="answer">
+			<div class="raz">Обязывает ли меня к чему-то активация в игре?</div>
+			<div class="del">Активация вас ни к чему не обязывает. Только помните о том, что ваш год начинается с момента активации. И если вы, например, активировались в приложении 1 июля 2018 года, то чтобы получить 5 000 000 рублей от Super Ego, вам необходимо будет пройти игру за год, до 1 июля 2019 года. </div>
+		</div>
+		<div class="answer">
+			<div class="raz">Могу ли я участвовать в игре, если я пользуюсь первой версией Master Kit, и не перехожу на Master Kit 2.0?</div>
+			<div class="del">Не важно, какой версии у вас Master Kit - вы можете участвовать в игре в любом случае.</div>
+		</div>
+		<div class="answer">
+			<div class="raz">Если я пройду игру в течение года, я получу бонус 5 000 000 рублей. Когда начинается год?</div>
+			<div class="del">Год начинается в тот момент, когда вы активировались в приложении. Чтобы активироваться в приложении, нужно не только скачать его на телефон, но и войти в него. Просто скачать приложение недостаточно, обязательно нужно в него войти.</div>
+		</div>
+		<div class="answer">
+			<div class="raz">Что делать, если не удается войти в приложение? Если не появляются задания или есть ошибки?</div>
+			<div class="del">Если приложение выдает ошибку, или вам не удается в него войти - просто обновите его. Чтобы обновить приложение, зайдите туда, где вы его скачали (Google Play или App Store) и нажмите кнопку “Обновить”.</div>
+		</div>
+		<div class="answer">
+			<div class="raz">Буду ли я видеть процент, насколько заполнена моя карта, и рекомендации по количеству? Будут ли в приложении подсказки и рекомендации по какой ветке что нужно сделать?</div>
+			<div class="del">Да, такие рекомендации обязательно будут. Приложение будет само вам подсказывать, что вам нужно делать. Сейчас мы работаем над внедрением этих подсказок, и в ближайшее время они появятся.</div>
+		</div>
+		<div class="answer">
+			<div class="raz">Если я не выполняю ежедневное задание, но в конце месяца у меня всё равно появился человек, пройду ли я в следующую карту?</div>
+			<div class="del">Да, вы пройдете в следующую карту.  Приложение запрограммировано так, что факт появления человека в вашей первой линии, так же как и факт появления людей в первой линии, которые скачали приложение у ваших людей и так далее, является основополагающим для перехода в следующую карту. Это событие, которое перебивает все остальные, и помогает вам перейти на следующую карту.</div>
+		</div>
+	</div>
+</section>
+
+<section class="block7">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-sm-8 col-xs-12 down">
+				<img src="img/app-icon.png" class="app">
+				Скачать приложение<br>
+				<a href="https://itunes.apple.com/us/app/super-ego-business/id1382268792?mt=8" target="_blank"><img src="img/apple-store-badge.png"></a>&nbsp;&nbsp;
+				<a href="https://play.google.com/store/apps/details?id=info.superego.backoffice" target="_blank"><img src="img/google-play-badge.png"></a>
+			</div>
+			<div class="col-md-6 col-sm-4 col-sm-offset-0 col-xs-7 col-xs-offset-5">
+				<img src="img/motivator.png">
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="block8">
+	<div class="container">
+		<div class="number3">?</div>
+		<div class="zag">Остались вопросы?</div><br>
+		Оставьте контактные данные и мы с Вами свяжемся
+		<form class="form-inline" role="form" id="form1">
+			<div class="form-group">
+				<input name="name" type="text" id="name" placeholder="Имя" required>
+			</div>
+			<div class="form-group">
+				<input  name="tel"  type="text" id="tel" placeholder="Телефон" required>
+			</div>
+			<div class="form-group">
+				<input  name="email"  type="text" id="email" placeholder="E-mail" required>
+			</div>
+			<button type="submit" class="form-submit btn2">Подписаться</button>
+		</form>
+	</div>
+</section>
+
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6">
+				<img src="img/logo.svg" alt="SuperEgo" width="150">
+			</div>	
+			<div class="col-sm-6 za">
+					© 2018, SuperEgo. Все права защищены.
+			</div>
+		</div>
+	</div>
+</footer>
+
+<div id="video" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <button class="close_btn" type="button" data-dismiss="modal"></button>
+            <div class="w-video" style="padding-top: 56.17021276595745%;">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/h4elwiimN8w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="js/jquery.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<script>
+	$('.raz').on('click', function(){
+		var $that = $(this),
+        nc = $that.next('.del').length,
+        block = nc ? $that.next('.del') : $that.parent('.del');
+		block.slideToggle(function(){
+        $('.raz',block).add(block.prev('.raz'))
+        ;
+    });  
+});
+</script>
+
+<script>		
+		$(document).mouseup(function (e) {
+		var container = $("modal");
+		if (container.has(e.target).length === 0){
+			$('iframe').attr('src', $('iframe').attr('src'));
+		}
+		});
+		$('.close').click(function(){
+			$('iframe').attr('src', $('iframe').attr('src'));
+		});
+</script>
+
+<script>
+	$("a[href*=#how1]").on("click", function (e) {
+	var anchor = $(this);
+	$('html, body').stop().animate({
+	scrollTop: $(anchor.attr('href')).offset().top
+	}, 777);
+	e.preventDefault();
+	return false;
+	});
+	
+	$("a[href*=#how2]").on("click", function (e) {
+	var anchor = $(this);
+	$('html, body').stop().animate({
+	scrollTop: $(anchor.attr('href')).offset().top
+	}, 777);
+	e.preventDefault();
+	return false;
+	});
+	
+	$("a[href*=#how3]").on("click", function (e) {
+	var anchor = $(this);
+	$('html, body').stop().animate({
+	scrollTop: $(anchor.attr('href')).offset().top
+	}, 777);
+	e.preventDefault();
+	return false;
+	});
+	
+	$("a[href*=#how4]").on("click", function (e) {
+	var anchor = $(this);
+	$('html, body').stop().animate({
+	scrollTop: $(anchor.attr('href')).offset().top
+	}, 777);
+	e.preventDefault();
+	return false;
+	});
+	
+	$("a[href*=#how5]").on("click", function (e) {
+	var anchor = $(this);
+	$('html, body').stop().animate({
+	scrollTop: $(anchor.attr('href')).offset().top
+	}, 777);
+	e.preventDefault();
+	return false;
+	});
+</script>
+</body>
+</html>
